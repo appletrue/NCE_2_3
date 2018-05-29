@@ -279,3 +279,58 @@ She kept none of his letters. 他的信件她一封也没有保留。
 none of 这个短语有时可以表达一种断然、甚至粗暴的口气，尤其是在祈使句中：
 
 None of your silly remarks! 别说傻话了！
+
+
+英语思维部分
+
+2) Last week I went to thetheatre.
+ When did you go to thetheatre?
+Who went to the theatre lastweek?
+Where did you go last week?
+单词： go: went,  gone, goes, going       
+theatre ['θiətə] n.剧场，戏院
+
+3) I had a very good seat
+ Did you have a good seat?
+You didn't have a good seat,did you?
+What kind of seat did youhave?
+单词：have: had, had,has, having       
+seat: seat [si:t] n.座位     
+cf.: sit: sat, sat, sits, sitting
+
+4）The play was veryinteresting
+Was the play veryinteresting?
+Was it an interesting play?
+The play wasn't interesting,was it?
+The play was moreinteresting than the film, was it?
+The play was the most interesting, was it?
+单词：interesting:  
+more interesting,  the most interesting       
+play [plei] n.戏
+
+5)I did not enjoy it.
+Did you enjoy it?
+You enjoyed the play, didn'tyou?
+I enjoyed it.
+单词： 
+do: did, done,does, doing 
+enjoy: 
+enjoy it, 
+enjoy the pay, 
+enjoy doing sth.
+例句： 
+Did you enjoy the movie last night?
+He doesn't enjoy skating.
+She doesn't enjoy fishing.
+Enjoy yourself! 好好玩吧！
+ 
+6)Last week I went to the theatre. 
+I had a very good seat. 
+The play was very interesting. 
+I did not enjoy it.
+
+
+Q1.Where did you go last week? 
+Q2. Did you have a good seat?
+Q3.Was it an interesting play? 
+Q4.You enjoyed the play, didn't you?
