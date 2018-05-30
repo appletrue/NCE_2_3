@@ -411,9 +411,73 @@ Q4:
 - (woman)--actress, an actress,actresses
 
 
-
-S9 : I turned round. 
+**S9 : I turned round. **
 
 Q1: What did you do?			I turned round to see them.
 
+Q2: 	Who turned round/turn around?		The writer.
 
+Q3: Did you turn left or right?				No, I turned around.
+
+
+
+**S10 : I looked at the man and the woman angrily.**
+
+Q1: Who did you look at?			I looked at the man and the woman.
+
+Q2: Why did you look at them angrily?		Because they spoke loudly and I couldn't hear the actors.
+
+Q3: How did you feel when you looked at them?		Very angrily.
+
+Q4: You were very angrily when you looked at them, did you ?          Yes ,I did.
+
+
+
+**S11: They did not pay any attention.** 
+
+Q1: They didn't pay any attention, did they? 			No,they didn't.
+
+Q2: Who didn't pay any attention?					The couple.
+
+Q3: Did they pay any attention?					No,they didn't.
+
+Q4: Why didn't they pay any attention?				Because they spoke loudly all the time. 
+
+
+
+**S12: In the end, I could not bear it. I turned round again.**   
+
+Q1: When could't you  bear it?  		In the end.
+
+Q2: Could you bear it?				No,I couldn't.
+
+Q3: Could you bear it?  What did you do then?     No,I couldn't,I turned around again.
+
+
+
+**S13:  'I can't hear a word!' I said angrily.**   
+
+Q1: What did you say? 			I said I couldn't hear a word.
+
+Q2: How did you feel when you said to them? 	I felt very angrily.
+
+Q3: Why did you could not hear a word?		Because they were talking loudly.
+
+
+
+**S14:    'It's none of your business,' the young man said rudely. 'This is a private conversation!'**
+
+Q1: What did the young man say?  		He said that was none of my business,and he said that was a private conversation.
+
+Q2: How did the young man say?		He said very rudely.
+
+Q3: Why did the young man say that was a private conversation?
+
+Because He thought what the writer said was he couldn't hear the conversation between the young woman and him. 
+
+
+## 【文章改写部分】
+
+Last Sunday evening I went to the theatre with a friend.We had  very good seats. The play was very interesting/funny  but we didn't enjoy it. A young man and a young woman were sitting  in front of us and talking very loudly. We got angrily because we couldn't hear the actors very well. I looked at them angrily but they paid no attention. In the end we could not bear it any more.I decided to say something to interrupt them,「Could you perhaps sit lower in your seats?!」
+
+「Keep quite!」,the young man said rudely,「we can't hear the actors! 」
