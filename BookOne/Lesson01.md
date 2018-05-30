@@ -308,6 +308,7 @@ None of your silly remarks! 别说傻话了！
 
 ## 【Questions for英语思维部分】
 
+
 **S1：Last week I went to the theatre.**
 
 Q1: When did you go to the theatre ?			(I went to the theatre)  last week.
@@ -372,20 +373,47 @@ Q2: What were they doing?			They were talking (loudly).
 
 Q3: How were they talking?			Loudly.
 
+e.g.  提问程度，用how,  adj+ly --adv
 
-e.g.  提问程度，用how
+**How** did she walk across the stage?		She walked very **slowly** across the stage.
 
-**How** did she walk across the stage?		She walked very slowly across the stage.
+How did she behave at the theatre?		She behaved **rudely**.
 
-How did she behave at the theatre?		She behaved rudely.
+How did he drive through the park?		He drove through the park **quickly**. 
 
-How did he drive through the park?		He drove through the park quickly. 
+How did Tom sleep on the train?     Tom slept **quietly** on the train.
+
+How did they listen to his story?     They listened to his story **carefully.**
 
 
-**S7：I got very angry.**
+**S7：I got very angry.** (get--got-got(gotten)-getting--gets)
 
 Q1: Who got very angry?				The writer.
 
 Q2: What happend to you?			I got very angr.
 
-Q3: 
+Q3: How did you feel?         I felt very angry.
+
+Q4: You got very angry, didn'tyou?    Yes,I did.
+
+
+**S8: I could not hear the actors.** 
+
+Q1: Could you hear the actor?			No,I didn't.
+
+Q2: You couldn't hear the actors,could you?		No,I couldn't.????(doubt  it right?)
+
+Q3: Why did you could not hear the actors?		Because the young couple spoke loudly.
+
+Q4: 
+
+- (man)------actor, anactor, actors;  
+- (woman)--actress, an actress,actresses
+
+
+
+S9 : I turned round. 
+
+Q1: What did you do?			I turned round to see them.
+
+
