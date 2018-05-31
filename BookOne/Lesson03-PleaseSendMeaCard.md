@@ -254,3 +254,87 @@ who 既可以对主语提问也可以对宾语提问, 而 whom 只能对宾语�
 如果对主语提问, 则句子的语序和陈述句语序一样；如果对非主语来提问, 则句子要使用特殊疑问词+一般疑问句的语序
 
 Who/Whom did the waiter teach a few words of Italian? 
+
+### 【Questions for 英语思维】
+
+S1: Postcards always spoil my holidays. 
+
+Q1:  What always spoils your holidays? 
+
+
+
+S2: Last summer, I went to Italy. 
+
+Q1: Where did you go last summer?
+
+
+
+S3: I visited museums and sat in public gardens. 
+
+Q1:  What did you visit? 
+
+Q2:  Where did you sit?
+
+
+
+S4: A friendly waiter taught me a few words of Italian. 
+
+Q1: Who taught you?
+
+Q2: Did you learn a little Italian?
+
+Q3: 
+
+
+
+S5: Then he lent me a book.
+
+Q1: What did he lend you?
+
+Q2:Who lent you a book?
+
+
+
+
+
+S6: I read a few lines, but I did not understand a word. 
+
+Q1: Did you understand what you read?
+
+
+
+S7: Every day I thought about postcards. 
+
+
+
+
+
+S8: My holidays passed quickly, but I did not send cards to my friends. 
+
+Q1:How often did you think about postcards? 
+
+Q2: Did your holidays pass quickly?  
+
+Q3: Did your friends receive any cards from you? 
+
+
+
+S9: On the last day I made a big decision. 
+
+Q1: What did you do on the last day?
+
+
+
+S10: I got up early and bought thirty-seven cards.
+
+Q1: When did you get up?
+
+Q2: How many cards did you buy?
+
+
+
+I spent the whole day in my room, but I did not write a single card!
+
+Q1: Where did you spend thewhole day?
+
+Q2: How many cards did you write?
