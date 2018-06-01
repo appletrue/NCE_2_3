@@ -1,4 +1,4 @@
-# Lesson 2         Breakfast or lunch?
+## Lesson 2   Breakfast or lunch?
 
 
 It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of the window. It was dark outside. What a day!I thought. It's raining again. Just then, the telephone rang. It was my aunt Lucy. I've just arrived by train, she said. I'm coming to see you.
@@ -12,8 +12,7 @@ I'm having breakfast, I repeated.
 Dear me, she said. Do you always get up so late? It's one o'clock!
 
 
-
-## 【words and expressions 】
+### 【words and expressions 】
 
 ★until   prep.直到
 
@@ -65,7 +64,7 @@ He is waiting for me outside.
 
 -  n. 戒指 
 
-★.     aunt n. 姑,姨,婶,舅妈(所有长一辈的女性都用这个称呼) 男性则是 uncle: 
+★.  aunt n. 姑,姨,婶,舅妈(所有长一辈的女性都用这个称呼) 男性则是 uncle: 
 
 叔叔他们的孩子:cousin 堂兄妹(不分男女); cousin 的孩子:nephew 外甥;niece 外甥女 
 
@@ -84,8 +83,7 @@ He is waiting for me outside.
  Don’t repeat. 
 
 
-
-## 【Notes on the text 课文注释】
+### 【Notes on the text】
 
 1、It was Sunday. 
 
@@ -139,7 +137,7 @@ My aunt left by the 9:15 train.
 - by boat 乘船; by ship 乘船 
 - by car 乘小汽车  
 - by bicycle/bike 骑自行车
--  by bus 乘公共汽车
+- by bus 乘公共汽车
 - by land 由陆路
 - by sea 由海路 
 - by train 乘火车 
@@ -158,7 +156,7 @@ My aunt left by the 9:15 train.
 
  天哪!英国人说 Dear me!或 My dear! 美国人说 : My god! 注意美英的发音不同. 
 
-## 【Special Difficulties】
+### 【Special Difficulties】
 
  What a day！多么糟糕的天气！
 
@@ -180,9 +178,7 @@ What a thing to say! 多么难听的话啊!
 
 What (a lot of) trouble( he is causing)! 
 
-
-
-## 【Questions for英语思维部分】
+### 【Questions for英语思维部分】
 
 **S1: It was Sunday. **
 
@@ -281,9 +277,6 @@ Q2: Why did you repeat yourself?			Because My aunt couldn't believe/imageine.
 Q1: What did she ask you?			She asked whether I always got up so late or not.
 
 Q2: What  time was it?			It was one o'clock.
-
-
-
 
 
 ## 【文章改写部分】
