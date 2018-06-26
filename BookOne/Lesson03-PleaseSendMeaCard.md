@@ -333,7 +333,7 @@ I can’t spend any more on this car.
 
   Q3: How many cards did you write?			I didn't write a single card!
   
-  Q4: How much time did you spend on writing cards?    A whole day.
+  Q4: How long(/soon?) did you spend on writing cards?    A whole day.
 
 ### 【文章改写部分】
 
