@@ -1,15 +1,14 @@
-# Lesson 5 	  No wrong number
+## Lesson 5 	  No wrong number
 
- 
 Mr. James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinburst to Silbury. The bird covered the distance the first three minutes. Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private‘telephone’service.
 
-【New words and expressions】生词和短语
+### 【New words and expressions】
 
-★	pigeon n. 鸽子
+★	**pigeon n. 鸽子
 
 It's not my pigeon. ＝None of my business. 不关我的事。
 
-★	message n. （口头或书面的）信息
+★	**message n. （口头或书面的）信息
 
 Here is a message for you from your sister.
 
@@ -29,15 +28,15 @@ take a message to sb. 给某人口信
 
 打电话 :
 
-Hello!--àMay I have a word with Tom ?/May I speak with/to Tom?
+Hello! May I have a word with Tom ?/May I speak with/to Tom?
 
---àCan you take a message for me?
+--Can you take a message for me?
 
 information n. 信息（不可数）
 
 messenger n. 送信人，信使
 
-★ cover v. 越过；覆盖
+★ **cover v. 越过；覆盖
 
 - vt. 盖，覆盖
 
@@ -55,7 +54,7 @@ You can cover the distance to the museum in ten minutes.
 
 Put a cover on the box!
 
-★ distance n. 距离
+★ **distance n. 距离
 
 keep distance 保持距离
 
@@ -69,9 +68,9 @@ importance n. 重要 important adj. 重要的
 
 difference n. 不同 different adj. 不同的
 
-★ request n. 要求, 请求
+★ request 
 
--  n.
+-  **n. 要求, 请求
 
 request for 对……有请求, 有需求
 
@@ -81,7 +80,7 @@ He granted my request for more time. 他同意了我延长时间的请求。
 
 She sent a request for help to Gary. 她向加里请求帮助。
 
-- v. 要求, 请求
+- **v. 要求, 请求
 
 request sb.to do sth. ＝ask sb.to do sth. 要求某人做……
 
@@ -91,7 +90,7 @@ You are required/asked to do sth. （对人要求习惯用被动语态）
 
 ★ spare adj. 备用的
 
-- vt. 抽出（时间等），让给
+- **vt. 抽出（时间等），让给
 
 Have you got five minutes to spare?
 
@@ -99,13 +98,13 @@ I cannot spare the time.
 
 I have no time to spare.
 
-- vt. 饶恕，赦免
+- **vt. 饶恕，赦免
 
 The robbers spared his life.
 
-‘Share me!’begged the prisoner.
+‘Spare me!’begged the prisoner.
 
-- adj. 多余的，空闲的，剩下的，备用的
+- **adj. 多余的，空闲的，剩下的，备用的
 
 You can sleep in the spare bedroom.
 
@@ -117,7 +116,7 @@ I have no spare time now.
 
 =‘Have you any old clothes to spare?’he asked.
 
-★ service n. 业务, 服务
+★ **service n. 业务, 服务
 
 service 作为不可数名词时通常用于表示旅馆、餐馆以及商店等对旅客、顾客等的侍候、接待或服务；
 
@@ -147,7 +146,7 @@ Thank you for your listening.在讲课, 演讲结束时说, 即感谢大家的�
 
 ——Sorry. ——No sorry.
 
-【课文讲解】
+### 【Notes on the text 】
 
 1、Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.
 
@@ -272,3 +271,7 @@ a great number of(+可数名词复数) 许多……
 urgent adj. 紧急的
 
 something urgent 紧急的事情
+
+### 【Questions for】
+
+### 【Rewrite text】
