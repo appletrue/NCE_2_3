@@ -1,8 +1,8 @@
-# Lesson 3   Please send me a card
+## Lesson 3   Please send me a card
 
 Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Every day I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
 
-## 【New words and expressions 】生词和短语
+### 【New words and expressions 】生词和短语
 
 ★send        v.  寄,  送 
 
@@ -83,6 +83,7 @@ His parents spoiled the boy.
  in public      公开的；in private      私下里的  
 
 Let’s have a conversation in private.    让我们私下谈谈?  
+
 Why not have a conversation in public?      为什么不公开谈呢?(当面说呢?)  
 
  -  n.  公众，群众，大众  
@@ -157,7 +158,7 @@ all of us ；all of the students
 
 反义词  : double  双倍的  
 
-## 【课文讲解】
+### 【课文讲解】
 
 1、Last summer, I went to Italy.
 
@@ -197,25 +198,17 @@ The police would like to ask him a few questions. 警察要问他一些问题。
 
 - think about/of 考虑, 思考，指某一段时间一直在想/考虑某事, think of 还可指想到
 
-- think about:考虑、思考、想
-
-- think over 仔细考虑，反复思考
-
-- make up one's mind:下定决心
-
-- change one's mind:改变主意
-
-- make a wish : 许个心愿, 愿望, 许愿 
-
 What do you think of?
 
 What do you think of TV program last night?
 
 What do you think of the weather today? 你觉得天气怎么样?
 
+- think over 仔细考虑，反复思考
+
 What’s the weather like today?
 
---- cold, chilly（非常非常冷）, freeze
+cold, chilly（非常非常冷）, freeze
 
 I'll freeze.我要冻僵了
 
@@ -223,7 +216,7 @@ I'll freeze.我要冻僵了
 
 spend 与表示时间的词或短语连和时，意思为“花（时间）”、“度过”
 
-- spend+时间+地点 : 在什么地点我花费/度过了多少时间
+spend+时间+地点 : 在什么地点我花费/度过了多少时间
 
 I spend three hours in the sea.
 
@@ -233,108 +226,111 @@ I spend three hours in the classroom everyday.
 
 I spend a lot of time in traffic jam.(交通堵塞)
 
-- spend 还可以表示“花钱”
+spend 还可以表示“花钱”
 
 If we spend all the money, we’ll be poor again.
 
-I can’t spend any more on this car. 
+I can’t spend any more on this car.
 
-final——形容词 end——名词/动词 latest——形容词 bottom——名词
+### 【Questions for英语思维部分】
 
-latest adj. 最新的
+- S1: Postcards always spoil my holidays. 
 
-latest news；latest style 新款 
+  Q1: What always spoil your holidays?	The postcards.
 
-in...way :以...方式, 作为状语表示这个人做什么事情很友好, 用短语 in a friendly way 
-
-人做主语提问——who 对宾语提问——whom
-
-who 既可以对主语提问也可以对宾语提问, 而 whom 只能对宾语提问
-
-如果对主语提问, 则句子的语序和陈述句语序一样；如果对非主语来提问, 则句子要使用特殊疑问词+一般疑问句的语序
-
-Who/Whom did the waiter teach a few words of Italian? 
-
-### 【Questions for 英语思维】
-
-S1: Postcards always spoil my holidays. 
-
-Q1:  What always spoils your holidays? 
+  Q2: How do you think the postcards during  holidays?		They always spoil me.
 
 
 
-S2: Last summer, I went to Italy. 
+- S2: Last summer, I went to Italy. 
 
-Q1: Where did you go last summer?
+  Q1: When did you go to Italy?	Last Summer.
 
+  Q2: Who went to Italy last summer?	me
 
-
-S3: I visited museums and sat in public gardens. 
-
-Q1:  What did you visit? 
-
-Q2:  Where did you sit?
+  Q3: Where did you go last summer?	Italy.
 
 
 
-S4: A friendly waiter taught me a few words of Italian. 
+- S3: I visited museums and sat in public gardens. 
 
-Q1: Who taught you?
+  Q1: Who visited museums and sat in public gardens?	me
 
-Q2: Did you learn a little Italian?
-
-Q3: 
+  Q2: Where did you visit and Where did you sit?     I visited museums and sat in public gardens.
 
 
 
-S5: Then he lent me a book.
+- S4:  A friendly waiter taught me a few words of Italian. 
 
-Q1: What did he lend you?
+  Q1: Who taught you a few words of Italian?		A (friendly) waiter.
 
-Q2:Who lent you a book?
+  Q2: What did the waiter teach you?				A few words of Italian.
 
-
-
-
-
-S6: I read a few lines, but I did not understand a word. 
-
-Q1: Did you understand what you read?
+  Q3: How was the  waiter?						Friendly.
 
 
 
-S7: Every day I thought about postcards. 
+- S5: Then he lent me a book. 
+
+  Q1: Who lend you a book?		The waiter.
+
+  Q2: What did he lend you ?	A book.
+
+  Q3: Why did he lend you a book?	Maybe he thought I could learn Italian by myself.
+
+  ​
+
+
+- S6: I read a few lines, but I did not understand a word. 
+
+  Q1: Did you read the book?			Yes,I read a few lines.
+
+  Q2: Could you understand the book?	No,I did not understand a word.
 
 
 
+- S7: Every day I thought about postcards. 
 
+  Q1: What did you do every day?			I thought about postcards.
 
-S8: My holidays passed quickly, but I did not send cards to my friends. 
+  Q2: What did you think about ?				Postcards.
 
-Q1:How often did you think about postcards? 
+  Q3: How often did you think about postcards?	Every day.
 
-Q2: Did your holidays pass quickly?  
+  ​
 
-Q3: Did your friends receive any cards from you? 
+- S8: My holidays passed quickly, but I did not send cards to my friends. 
 
+  Q1: How did your holidays pass?			Quickly.
 
-
-S9: On the last day I made a big decision. 
-
-Q1: What did you do on the last day?
-
-
-
-S10: I got up early and bought thirty-seven cards.
-
-Q1: When did you get up?
-
-Q2: How many cards did you buy?
+  Q2: How many cards did you send to your friends?	None.
 
 
 
-I spent the whole day in my room, but I did not write a single card!
+- S9: On the last day I made a big decision. 
 
-Q1: Where did you spend thewhole day?
+  Q1: When did you make a big decision?		On the last day.
 
-Q2: How many cards did you write?
+  Q2" What did you do on the last day?		I made a big decision.
+
+
+
+- S10: I got up early and bought thirty-seven cards. 
+
+  Q1: What did you do that day?				I got up early and bought 37 cards.
+
+  Q2: How many card did you buy that day?	Thirty-seven.
+
+  Q3: Why did you get up early?				I thought I should buy the cards.
+
+
+
+- S11: I spent the whole day in my room, but I did not write a single card!
+
+  Q1: Where were you the whole day?		In my room.
+
+  Q2: What did you do ?						I did nothing.
+
+  Q3: How many cards did you write?			I didn't write a single card!
+
+### 【文章改写部分】
