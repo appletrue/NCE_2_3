@@ -180,7 +180,7 @@ What (a lot of) trouble( he is causing)!
 
 ### 【Questions for英语思维部分】
 
-**S1: It was Sunday. **
+- **S1: It was Sunday. **
 
 Q1: **What day was it?** /What day was that day?    		It was Sunday.
 
@@ -190,7 +190,7 @@ Q3: It was Sunday,was it?								Yes,it was.
 
 
 
-**S2: I never get up early on Sundays.** 
+- **S2: I never get up early on Sundays.** 
 
 Q1: Do you always get up late on Sundays?  				Yes，I do.
 
@@ -198,7 +198,7 @@ Q2: You always get up very late on Sundays,do you?		Yes,I do.
 
 
 
-**S3: I sometimes stay in bed until lunchtime.**
+- **S3: I sometimes stay in bed until lunchtime.**
 
 Q1: Do you ever get up before lunchtime?				Yes, I do.
 
@@ -208,7 +208,7 @@ Q3: Do you ever get up before lunchtime?				Yes，I do.
 
 
 
-**S3:  Last Sunday I got up very late.** 
+- **S3:  Last Sunday I got up very late.** 
 
 Q1: When did you get up vary late?				Very late.
 
@@ -216,7 +216,7 @@ Q2: Did you get uo early last Sunday?			No,I didn't.
 
 
 
-**S4: I looked out of the window. It was dark outside.** 
+- **S4: I looked out of the window. It was dark outside.** 
 
 Q1: Where did you look at?		I looked out of the window.
 
@@ -224,7 +224,7 @@ Q2: What was it like outside?		It was dark.
 
 
 
-**S5: 'What a day!' I thought. 'It's raining again.'**
+- **S5: 'What a day!' I thought. 'It's raining again.'**
 
 Q1: Did you think it was a nice day?				No,I didn't.
 
@@ -232,7 +232,7 @@ Q1: Did you think it was a nice day?				No,I didn't.
 
 
 
-**S6:  Just then, the telephone rang. It was my aunt Lucy.**
+- **S6:  Just then, the telephone rang. It was my aunt Lucy.**
 
 Q1: What happened just then?		The telephone rang just then.
 
@@ -240,7 +240,7 @@ Q2: Who was on the phone?		My aunt was on the phone.
 
 
 
-**S7:  'I've just arrived by train,' she said. 'I'm coming to see you.'** 
+- **S7:  'I've just arrived by train,' she said. 'I'm coming to see you.'** 
 
 Q1:  How had she arrived?				She arrived here by train.
 
@@ -248,7 +248,7 @@ Q2: What did she say?					She said that she was coming to see me.
 
 
 
-**S8: 'But I'm still having breakfast,' I said.**
+- **S8: 'But I'm still having breakfast,' I said.**
 
 Q1: What were you doing then?		I were having breakfast.
 
@@ -256,7 +256,7 @@ Q2: what did you say?
 
 
 
-**S9:  'What are you doing?' she asked.**
+- **S9:  'What are you doing?' she asked.**
 
 Q1: Was she surprised to hear this? 
 
@@ -264,7 +264,7 @@ Q2: Why was she surprised?
 
  
 
-**S10:  'I'm having breakfast,' I repeated.**
+- **S10:  'I'm having breakfast,' I repeated.**
 
 Q1:  Did you have to repeat yourself?		Yes,I did.
 
@@ -272,11 +272,15 @@ Q2: Why did you repeat yourself?			Because My aunt couldn't believe/imageine.
 
 
 
-**S11:  'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'** 
+- **S11:  'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'** 
 
 Q1: What did she ask you?			She asked whether I always got up so late or not.
 
 Q2: What  time was it?			It was one o'clock.
 
+Q3: When did the author get up?    One o'clock.
+
 
 ## 【文章改写部分】
+
+There is a man who never gets up early on Sundays. He often stays in bed until lunchtime although he is awake. Last Sunday he got up late as usual, the weather is awful that it was dark outside. He looked out of the window and thought that would be a raining day again! Just then the telephone from his aunt Lucy rang .His aunt told him that she had arrived by train and was coming to see him. He said he was having breakfast .Aunt Lucy felt so unbelievable that she asked what was he doing , he repeated he was having breakfast. His aunt was  astonished at this and  asked him whether always got up so late.because it was already one o'clock then.
