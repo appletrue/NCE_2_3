@@ -178,7 +178,7 @@ What a thing to say! 多么难听的话啊!
 
 What (a lot of) trouble( he is causing)! 
 
-### 【Questions for英语思维部分】
+### 【Questions for】
 
 - **S1: It was Sunday. **
 
@@ -281,6 +281,6 @@ Q2: What  time was it?			It was one o'clock.
 Q3: When did the author get up?    One o'clock.
 
 
-## 【文章改写部分】
+## 【Rewrite text】
 
 There is a man who never gets up early on Sundays. He often stays in bed until lunchtime although he is awake. Last Sunday he got up late as usual, the weather is awful that it was dark outside. He looked out of the window and thought that would be a raining day again! Just then the telephone from his aunt Lucy rang .His aunt told him that she had arrived by train and was coming to see him. He said he was having breakfast .Aunt Lucy felt so unbelievable that she asked what was he doing , he repeated he was having breakfast. His aunt was  astonished at this and  asked him whether always got up so late.because it was already one o'clock then.
