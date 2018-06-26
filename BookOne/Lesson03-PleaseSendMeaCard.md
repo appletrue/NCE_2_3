@@ -2,7 +2,7 @@
 
 Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Every day I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
 
-### 【New words and expressions 】生词和短语
+### 【New words and expressions】
 
 ★send        v.  寄,  送 
 
@@ -158,7 +158,7 @@ all of us ；all of the students
 
 反义词  : double  双倍的  
 
-### 【课文讲解】
+### 【Notes on the text 】
 
 1、Last summer, I went to Italy.
 
@@ -232,7 +232,7 @@ If we spend all the money, we’ll be poor again.
 
 I can’t spend any more on this car.
 
-### 【Questions for英语思维部分】
+### 【Questions for】
 
 - S1: Postcards always spoil my holidays. 
 
@@ -335,6 +335,6 @@ I can’t spend any more on this car.
   
   Q4: How long(/soon?) did you spend on writing cards?    A whole day.
 
-### 【文章改写部分】
+### 【Rewrite text】
 
 Postcards always spoil her holidays maybe because her procrastination,She made a trip  to Italy last summer.She visited museums ,then she sat in the public garden. A waiter was so friendly that he taught her a few words of Italian and lent her a book.She read a few lines but she found she didn't understand a word.Since her holidays passed so quickly that she haven't sent any cards to her friends although she thought about postcards every day.On the last day she made a big decision,she got up early and bought thirty-seven cards,then she spent the whole day in her room but finally she didn't write a single card !
