@@ -295,3 +295,7 @@ Q2: Who hasn't been abroad before?		My brother.
 Q3: How about   his trip ?		He is finding the trip very exciting.
 
 Q4: How does he think of his trip?		very exciting.
+
+### 【Rewrite text】
+
+I am Tim. I was  in Australia Six months ago , I'm working for a big firm as an engineer.During the holidays I have traveled a great number of different places in Australia.  I've bought an Australia car for the small town of Alice Springs in the centre of Australia. After this I will go on my journey to Darwin ,and then go to Perth by air. For I've never been abroad before,I feel so excited during my trip. 
