@@ -332,5 +332,9 @@ I can’t spend any more on this car.
   Q2: What did you do ?						I did nothing.
 
   Q3: How many cards did you write?			I didn't write a single card!
+  
+  Q4: How much time did you spend on writing cards?    A whole day.
 
 ### 【文章改写部分】
+
+Postcards always spoil her holidays maybe because her procrastination,She made a trip  to Italy last summer.She visited museums ,then she sat in the public garden. A waiter was so friendly that he taught her a few words of Italian and lent her a book.She read a few lines but she found she didn't understand a word.Since her holidays passed so quickly that she haven't sent any cards to her friends although she thought about postcards every day.On the last day she made a big decision,she got up early and bought thirty-seven cards,then she spent the whole day in her room but finally she didn't write a single card !
