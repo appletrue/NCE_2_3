@@ -295,11 +295,11 @@ Q4: What will be his flight ?                   His flight will be from Darwin t
 
 - S9: My brother has never been abroad before, so he is finding this trip very exciting. 
 
-Q1: Did your brother go abroad before?        No,he didn't.
+Q1: Has he been abroad before?        No,he hasn't.
 
 Q2: Who hasn't been abroad before?		My brother.
 
-Q3: How about   his trip ?		He is finding the trip very exciting.
+Q3: How about  his trip ?		He is finding the trip very exciting.
 
 Q4: How does he think of his trip?		very exciting.
 
