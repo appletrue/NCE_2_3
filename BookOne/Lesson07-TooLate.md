@@ -1,26 +1,22 @@
-Lesson 7 Too late 
+## Lesson 7  Too late
 
 The plane was late and detectives were waiting at the airport all morning. They were expecting a valuable parcel of diamonds from South Africa. A few hours earlier, someone had told the police that thieves would try to steal the diamonds. When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. Two men took the parcel off the plane and carried it into the Customs House. While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the precious parcel was full of stones and sand!
 
-【New words and expressions】 
+### 【New words and expressions】
 
-★	detective   n. 侦探  
-
-detective story 侦探小说   
+★	detective   n. 侦探  :detective story 侦探小说   
 
 ★	airport  n. 机场    
 
-★	airfield n. 飞机起落的场地	
+​	=-=  port    港口；
 
-port    港口；
+​	=-= airport 航空港 	at the airport  在机场     
 
-airport 航空港 	at the airport  在机场     
+​	=-= field 田野；
 
-field 田野；
+​	=-= airfield n. 飞机起落的场地 ，停机坪
 
-airfield 停机坪
-
-on the airfield 在停机坪上
+​	=-= on the airfield 在停机坪上
 
 ★	expect v.  期待，等待
 
@@ -32,19 +28,19 @@ on the airfield 在停机坪上
 
   They are expecting guests tonight. 		今晚有人要去他们那里作客。
 
-expect 	所表示的等待一般暗含着根据某些信息或规律而作出相应反应的意思，而wait for 主要接续“等待”这个动作本身。
+  ★ expect 所表示的等待一般暗含着根据某些信息或规律而作出相应反应的意思，而 ★ wait for 主要接续“等待”这个动作本身。
 
-expect sth.
+- expect sth.
 
 I expect a letter from Jimmy.
 
-expect sb. to do sth. 	期待某人做某事
+- expect sb. to do sth. 	期待某人做某事
 
 I expect you to write back.
 
 I expect my mother to come back.
 
-wait for sth./sb. 	动作上的等待
+==wait for sth./sb. 	动作上的等待
 
 I wait for my mother.
 
@@ -54,17 +50,9 @@ I expect so./I think so. 我希望如此［口语］
 
 I expect you’ve heard the news. 我想你已经听到这个消息了。
 
-★	valuable adj. 贵重的
+★	valuable adj. 贵重的, 有价值的   value n.&v. 价值；—— sth.is valuable/sth.is precious
 
-★	precious adj. 珍贵的
-
-value n.&v. 价值；valuable adj.有价值的
-
-sth.is valuable/sth.is precious
-
-precious adj. 珍贵的（带有一定的感情色彩）
-
-precious photo 珍贵的照片
+★	precious adj. 珍贵的（带有一定的感情色彩） —— precious photo 珍贵的照片
 
 -less 表否定;
 
@@ -84,7 +72,9 @@ precious stone 宝石；crystal 水晶；jade 玉
 
 - vt.&vi. 偷盗，行窃
 
-英语中“偷”用 steal 和 rob 来表达，宾语是物，用 steal；宾语是人，用 rob；跟地点相连，也用 rob steal sth. 偷(某物)
+**英语中“偷”用 steal 和 rob 来表达，宾语是物，用 steal；**
+
+**宾语是人，用 rob；跟地点相连，也用 rob steal sth. 偷(某物)**
 
 My wallet was stolen.
 
@@ -116,20 +106,15 @@ life guard 救生员
 
 body guard 保镖 
 
-keep guard 守望，警戒
-
-They kept a close guard over the thieves. 他们对小偷们严加看管。
+keep guard 守望，警戒——They kept a close guard over the thieves. 他们对小偷们严加看管。
 
 stand guard 站岗，放哨 
 
-
-【Notes on the text】
+### 【Notes on the text】
 
 1、The plane was late and detectives were waiting at the airport all morning.
 
-all 一般直接加表示时间的单数名词构成副词短语，如：all day，all night，all week，all winter，all year
-
-等。但不说 all hour。
+all 一般直接加表示时间的单数名词构成副词短语，如：all day，all night，all week，all winter，all year等。但不说 all hour。
 
 whole 在表达同样的意思时一般要加冠词或数词，如 a whole day/year，two whole weeks。
 
@@ -151,7 +136,7 @@ value n. 价值
 
 worth v. 值得……，后面一定要加词
 
-something is worth…
+- something is worth…
 
 The book is worth reading. (动名词)
 
@@ -187,9 +172,8 @@ would +do 过去将来时,间接方式, 转述, 站在过去看未来
 
 代词 others 常常和 some 连用，表示“有些（人）……，也有些（人）……”或“有的……，其余的……”
 
-one…the other… 一个……另一个……
-
-some…others… 一些……另一些……
+- **one…the other… 一个……另一个……**
+- **some…others… 一些……另一些……**
 
 Some students are very hard-working, others are not.
 
@@ -197,15 +181,13 @@ others=other+名词复数
 
 5、Two men took the parcel off the plane and carried it into the Customs House.
 
-take sth. off…=take sth. away from…
+- take sth. off…=take sth. away from…
 
-and carried it into…carried 表示看得很重
+and carried it into…carried 表示看很重
 
 Customs House 海关
 
-6、While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the
-
-precious parcel was full of stones and sand!
+6、While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the precious parcel was full of stones and sand!
 
 …were keeping guard at the door, two others opened the parcel.
 
@@ -225,7 +207,7 @@ to one's surprise,让某人惊讶的是
 
 To my surprise, the teacher was late.
 
-To one’s +表达人情绪的名词
+===To one’s +表达人情绪的名词
 
 to one's joy
 
@@ -240,3 +222,79 @@ be full of ...装满
 My bag was full of books.
 
 The cup is full of water. 
+
+### 【Questions for】
+
+S1: The plane was late and detectives were waiting at the airport all morning. 
+
+Q1: Was the plane early or late?	It was late.
+
+Q2: Who was waiting at the airport?	The detectives were waiting.
+
+Q3: How long had they waited?			All morning.
+
+Q4: How long were they there?			All morning.
+
+Q5: Where were they waiting?			At the airport.
+
+
+
+S2: They were expecting a valuable parcel of diamonds from South Africa.
+
+Q1: What were they expecting?			A valuable parcel.
+
+Q2: Where was the parcel from?		From South Africa.
+
+Q3: Was the parcel full of money or diamonds?	Diamonds.
+
+Q4: What was it in the parcel?			Diamonds.
+
+
+
+S3:  A few hours earlier, someone had told the police that thieves would try to steal the diamonds. 
+
+Q1: Did they think (that) some thieves would try to steal the diamonds?		Yes,they did.
+
+Q2: Why did they think like that?		Because someone had told the police.
+
+Q3: What would the thieves do?		They would  try  to steal the diamonds.
+
+
+
+S4: When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. 
+
+Q1: Were some detectives waiting inside the main building? 	Yes,they were.
+
+Q2: Where were the other detectives waiting?				On the airfield. 
+
+
+
+S5: Two men took the parcel off the plane and carried it into the Customs House. 
+
+Q1: Who took the parcel off the plane ?		Two men did.
+
+Q2: Where was  the parcel carried ?			Into the Customs House.
+
+
+
+S6: While two detectives were keeping guard at the door, two others opened the parcel. 
+
+Q1: Who was keeping guard at the door?	Two detectives.
+
+Q2: Who opened the parcel ?				The other two detectives .
+
+
+S7: To their surprise, the precious parcel was full of stones and sand!
+
+Q1: What was in the precious parcel?		it was full of stones and sand.
+
+Q2: Were they surprised?					Yes,they were.
+
+Q3: What surprised them al last?			The parcel weren't  full of diamonds but stones and sands.
+
+Q4: How did they feel?					They may felt very surprised and disappointed.
+
+
+### 【Rewrite text】
+
+All morning there were many detectives waiting at the airport for a valuable parcel of diamonds from South Africa.
