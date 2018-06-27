@@ -218,6 +218,9 @@ Q3: What have you received from Tom?		A letter.
 
 Q4: What have you done? 					I have received a letter.
 
+Q5: Have you just received a letter?      Yes I have.
+
+Q6: Was it from your sister or your brother?  It was from my brother.
 
 
 - S2: He is in Australia. 
@@ -229,13 +232,11 @@ Q2: Where is he?		He is in Australia.
 Q3: Is he an Australia?	No,he is not.
 
 
-
 - S3: He has been there for six months.
 
 Q1: How long has he been there?		For six months already.
 
 Q2: When did he go there?			Six months ago.
-
 
 
 - S4: Tim is an engineer. 
@@ -244,13 +245,14 @@ Q1: What does Tim do (for living) ?		He is an engineer.
 
 Q2: What is Tim's occupation/job/profession?	He is an engineer.???????
 
+Q3: Isn't he a nurse?     No,he isn't.
 
 
 - S5: He is working for a big firm and he has already visited a great number of different places in Australia. 
 
-Q1: Whom is he working for?		A big firm.
+Q1: Who is he working for?		A big firm.
 
-Q2: 
+Q2: Has he travlled in Australia yet?   yes,he has.
 
 Q3: He didn't visited any places in Australia, did he?	NO, he has visited a lot of places.
 
@@ -258,32 +260,37 @@ Q3: He didn't visited any places in Australia, did he?	NO, he has visited a lot 
 
 - S6: He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia. 
 
-Q1: What has he bought?		An Australian car.
+Q1: What has he (just) bought?		An Australian car.
 
-Q2: Which place has he gone? 	Alice springs.
+Q2: Which place has he gone in it? 	Alice springs.
 
-Q3: What is Alice spring?		A small town in the centre of Australian.
+Q3: Where has he gone in it?        Alice springs.
 
+Q4: What is Alice spring?		A small town in the centre of Australian.
+
+Q5: Is Alice spring a big town?     No,it isn't.
+
+Q6: Which part of Australia is it in?     The centre of Australia.
 
 
 - S7: He will soon visit Darwin. 
 
 Q1: What will be his plan ?	He will visit Darwin soon.
 
-Q2: Which place will he visit?	Darwin. 
+Q2: Which town/place will he visit (next)?	Darwin. 
 
-Q3: How long will he visit Darwin?	Very soon.
-
+Q3: How soon will he visit Darwin?	Very soon.
 
 
 - S8: From there, he will fly to Perth. 
 
-Q1: How will he go to perth? 	He will fly to Perth (from there).
+Q1: How will he go there/(to perth)? 	                  He will fly to Perth (from there).
 
-Q2: He will go to Perth by plane/air,will he?	Yes ,he will.
+Q2: He will go to Perth by plane/air/sea ,will he?	  Yes ,he will.(No, he won't)
 
-Q3: What will be his flight ?       His flight will be from Darwin to Perth.
+Q3: Where will he go after that?                He will go to Perth.
 
+Q4: What will be his flight ?                   His flight will be from Darwin to Perth.
 
 
 - S9: My brother has never been abroad before, so he is finding this trip very exciting. 
