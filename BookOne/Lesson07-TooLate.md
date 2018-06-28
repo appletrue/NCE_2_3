@@ -297,4 +297,4 @@ Q4: How did they feel?					They may felt very surprised and disappointed.
 
 ### 【Rewrite text】
 
-All morning there were many detectives waiting at the airport for a valuable parcel of diamonds from South Africa.
+All morning there were many detectives waiting at the airport for a valuable parcel of diamonds from South Africa. The thieves were waiting inside or outside the main building even on the airfield. The plane was late and a few hours earlier someone had told the police that thieves would try to steal the diamonds .When the plane arrived ,two detectives took off the parcel and carried into the Customs House, Where two detectives keeping guard at the  door.But when another two detectives opened the parcel, there were stones and sand ,and they felt very surprised.
