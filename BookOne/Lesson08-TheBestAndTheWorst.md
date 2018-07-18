@@ -1,27 +1,16 @@
 # Lesson 8 	  The best and the worst 
 
-
-## 【text】
-
 Joe Sanders has the most beautiful garden in our town. Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time. Bill Frith's garden is larger than Joe's. Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting. He has made neat paths and has built a wooden bridge over a pool. I like gardens too, but I do not like hard work. Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town! 
 
-
-
-## 【New words and expressions】
+## 【Words and expressions】
 
 ★	competition n. 比赛，竞赛（暗地里的竞争）
 
-race n. 比赛，竞赛
+race n. 比赛，竞赛 ----------car race
 
-car race
+match n. 比赛  ----------football match
 
-match n. 比赛
-
-football match
-
-contest n. 比赛（更广泛）
-
-baby contest 宝宝大赛；beauty contest 选美
+contest n. 比赛（更广泛） ---------- baby contest 宝宝大赛；beauty contest 选美
 
 game : 游戏, 运动
 
@@ -37,17 +26,9 @@ tidy <v.> (up) the room 整理房间
 
 swimming pool 游泳池
 
-pond 池塘（天然的）
+pond 池塘（天然的） ----------《golden pond》—金色池塘
 
-《golden pond》—金色池塘
-
-★	enter
-
-- vt.&vi. 进入
-
-enter+地点名词
-
-Always knock on the door before you enter.
+★	enter - vt.&vi. 进入: - enter+地点名词----Always knock on the door before you enter.
 
 - vt.&vi. 参加，加入
 
@@ -99,7 +80,7 @@ earn vt. 挣得
 
 earn money 
 
-## 【课文讲解】
+## 【】
 
 1、Joe Sanders has the most beautiful garden in our town.
 
@@ -112,7 +93,6 @@ Bill’s garden is larger than Joe’s.
 （比较的东西都是同类的事物 joe’s 的“’s”不能省略）
 
 
-
 2、Joe grows more flowers. More flowers grow in his garden 
 
 grow vt. 种植: grow sth; grow flowers…
@@ -122,7 +102,6 @@ vi. 生长: sth. grow; flowers are growing
 grow tall/grow big 变得……（一般不加形容词）
 
 grow up 只和人连用, 表示人的长大（up adv.表示向上） 
-
 
 
 3、Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.
@@ -159,19 +138,34 @@ Have you made the skirt by yourself?
 
 They have made a road along the river.
 
+## []
+
+S1 : Joe Sanders has the most beautiful garden in our town. 
+
+Q1 : 
 
 
-The plane was late and detectives were waiting at the airport all morning. 
+S2 : Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time. 
 
-They were expecting a valuable parcel of diamonds from South Africa. 
 
-A few hours earlier, someone had told the police that thieves would try to steal the diamonds. 
 
-When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. 
+S3 : Bill Frith's garden is larger than Joe's. 
 
-Two men took the parcel off the plane and carried it into the Customs House. 
 
-While two detectives were keeping guard at the door, two others opened the parcel. 
 
-To their surprise, the precious parcel was full of stones and sand!
+S4 : Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting. 
+
+
+
+S5 : He has made neat paths and has built a wooden bridge over a pool. 
+
+
+
+S6 : I like gardens too, but I do not like hard work. 
+
+
+
+S7 : Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town! 
+
+
 
